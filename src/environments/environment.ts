@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  appURL: "http://romelswebmartapi.eba-fcswhbac.ap-southeast-1.elasticbeanstalk.com/api"
+  appURL: "https://romel-webmart-api.herokuapp.com/api"
 };
 
 /*
