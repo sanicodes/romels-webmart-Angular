@@ -42,9 +42,8 @@ Scrum team (five people), 5 hours per week for 13 weeks
 
 # How to run
 
-`ng serve`
-or
-`npm run front`
+`npm run ng serve` to run the file locally
+`npm start` is for deployment purposes
 
 in the CLI
 
