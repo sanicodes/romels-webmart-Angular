@@ -5,7 +5,7 @@ const path = require('path');
 const app = express();
 
 // Serve only the static files form the dist directory
-app.use(express.static(__dirname + '/dist'));
+app.use(express.static(__dirname + '/dist/angulayout'));
 
 app.get('/*', function (req, res) {
 
@@ -13,7 +13,7 @@ app.get('/*', function (req, res) {
 });
 
 // Start the app by listening on the default Heroku port
-const port = process.env.PORT || 8080;
+const port = process.env.PORT || 3000;
 app.listen(port, () => {
     console.log('Express server listening on port', port)
 });
