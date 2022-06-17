@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  appURL: "https://romel-webmart-api.herokuapp.com/api"
+  appURL: "http://romelswebmartapi.eba-fcswhbac.ap-southeast-1.elasticbeanstalk.com/api"
 };
