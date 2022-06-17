@@ -41,15 +41,12 @@ Resources:
 Scrum team (five people), 5 hours per week for 13 weeks
 
 # How to run
-managed to combine nodemon and ng when testing. To run both frontend and backend simultaneously,
-use the command:
-`npm start
 
-use ng serv for frontend:
 `ng serve`
 or
 `npm run front`
 
+in the CLI
 
 # Note: 
 remove *node_modules* folder then run `npm install` when greeted with an error regarding dependencies.
