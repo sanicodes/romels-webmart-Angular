@@ -40,6 +40,11 @@ User accounts
 Resources:
 Scrum team (five people), 5 hours per week for 13 weeks
 
+# About the REPO
+
+This is the frontend side of the project. Everythin angular related can be accessed here.
+
+
 # How to run
 
 `npm run ng serve` to run the file locally
